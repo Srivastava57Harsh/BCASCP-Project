@@ -5,7 +5,7 @@
 Welcome to ModePay,a decentralized payment platform built on the Mode blockchain. It allows users to make splits, directly pay friends, and manage transactions in a secure and efficient manner. 
 </b>
 </p>
-<blockquote align="center">built on <span style="color: #8b0000;">☕</span> at <a href="https://mode-defi-degen-hack.devpost.com//">Mode Defi Degen Hack</a>.</blockquote>
+
 
 # 💡  Problem Statement
 
@@ -54,26 +54,9 @@ The smart contract has been deployed on Mode Testnet
 - Ethers
 - Tailwind CSS  
 
-# ⏭️ What's next
 
-Our journey continues as we strive to enhance ModePay and the whole Blockchain ecosystem. Here's what's on the horizon:
-- ModePay aims to further enhance its features and user experience. 
-- We plan to explore additional functionalities such as enhanced security measures, expanded communication features, and broader adoption of the SFS feature for fee sharing.
-- ModePay is committed to continuous improvement and innovation, and we look forward to refining and expanding our platform in response to user feedback and technological advancements.
-
-# 🐛Challenges we ran into
-
-- Our journey with Mode presented a learning curve, especially in navigating the intricacies of deploying with the SFS feature. However, the comprehensive documentation proved invaluable, guiding us through the process and significantly easing our entry into the Mode ecosystem.
-
-- Developing a customized chat system, enabling the seamless transmission of splits through Push Protocol, proved to be a substantial and intricate undertaking. The complexity of the task was really high but we did this to provide a decentralized communication platform for our users.
 
 # Check the below links for more details
-
-**GitHub:**
-https://github.com/ankit7241/modepay
-
-**Pitch Video:**
-https://youtu.be/hgmcHAF6O5Q
 
 **Live Website:**
 https://modepay.vercel.app/
@@ -88,8 +71,3 @@ https://sepolia.explorer.mode.network/address/0x90aCbe46edF5bC61532549e933896609
 0x90aCbe46edF5bC61532549e9338966090Fd5BAD5
 
 
-# 📜 License
-
-`ModePay` is available under the MIT license. See the [`LICENSE`](https://opensource.org/license/mit/) file for more info.
-
-Join us on this exciting journey of decentralization, privacy, and empowerment. Together, we'll shape the future of payments on Web3! ⚡🚀
